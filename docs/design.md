@@ -3,7 +3,7 @@ marp: true
 theme: default
 paginate: true
 header: "Next.js 기반 멀티테넌트 사이트 생성 솔루션"
-footer: "© 2025 Solution Architecture"
+footer: "© 2026 Solution Architecture"
 backgroundColor: #f9f9f9
 ---
 
